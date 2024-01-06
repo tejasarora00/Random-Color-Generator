@@ -1,6 +1,4 @@
 # Random Color Generator
-Generates a Random color, Along with their RGB Values
+Generates a Random color, Along with their rgb Values
 
 Thank You...
-
-Check
